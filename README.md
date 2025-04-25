@@ -29,8 +29,9 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 ```
-Developed by:Nikila D
+Developed by:NIKILA D
 RegisterNumber:212224230187
+
 ```
 ```python
 Function 1:
@@ -82,3 +83,4 @@ Function 2:
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+
